@@ -18,7 +18,7 @@ Coding work stations are comprised of small repetitive coding prompts. The goal 
 
 Each coding workstation lives in a git branch please follow these steps to check in or out to a specific coding workstation branch.
 
-1. Navigate to the following URL https://github.com/getromandev/codingWorkstations
+1. Navigate to the following URL **https://github.com/getromandev/codingWorkstations**
 2. Click on the **fork** button
     - This will create a copy of the codingWorkstations repository on your github account
 3. Navigate to codingWorkstation repository you just forked
