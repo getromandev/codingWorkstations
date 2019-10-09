@@ -20,12 +20,12 @@ Each coding workstation lives in a git branch please follow these steps to check
 
 1. Navigate to the following URL https://github.com/getromandev/codingWorkstations
 2. Click on the **fork** button
-    : This will create a copy of the codingWorkstations repository on your github account
+    - This will create a copy of the codingWorkstations repository on your github account
 3. Navigate to codingWorkstation repository you just forked
 4. Click on the clone repository green button
 5. Open your terminal
 6. CD into your working directory
-7. Type **git clone https://github.com/getromandev/codingWorkstations.git** in your terminal 
+7. Type **git clone https://github.com/getromandev/codingWorkstations.git** in your terminal
 8. CD into your new codingWorkstations folder
 9. Check into the first coding workstation by typing **git checkout [branchName]**
     - In order to see the list of coding workstation in your terminal type:
