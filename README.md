@@ -1,10 +1,10 @@
 ### About me: https://www.linkedin.com/in/heribertoroman/
 
-### Coding Workstations
+### Coding Workstations 💻
 
 Coding work stations are comprised of small repetitive coding prompts. The goal is to provide students with kinesthetic learning types, an opportunity to get their hands dirty and acquire a level of competency with Javascript fundamentals.
 
-### Steps
+### Steps for Instructors
 
 1. Set up tables facing each other that resembles a workstation.
 2. Label each table with the appropriate coding station tag.
@@ -13,3 +13,9 @@ Coding work stations are comprised of small repetitive coding prompts. The goal 
     - Each coding work station is worth x points.
     - Each student gets x minutes to complete live coding
 5. Once the student has completed a coding work station and passed the live coding test move student to the next table.
+
+### Steps for Students
+
+Each coding workstation lives in a git branch please follow these steps to check in or out to a specific coding workstation branch.
+
+1. git branch
