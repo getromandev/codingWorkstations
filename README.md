@@ -28,8 +28,8 @@ Each coding workstation lives in a git branch please follow these steps to check
 7. Type **git clone https://github.com/getromandev/codingWorkstations.git** in your terminal
 8. CD into your new codingWorkstations folder
 9. Check into the first coding workstation by typing **git checkout [branchName]**
-    - In order to see the list of coding workstation in your terminal type:
+    - In order to see the list of coding workstations in your terminal type:
         - **git branch**
-    - You will see a list of coding workstation displayed
-    - Select your coding work station and type **git checkout [branchName]**
+    - You will see a list of coding workstations displayed
+    - Select your coding workstation and type **git checkout [branchName]**
 10. Open up your favorite text editor and get to work
