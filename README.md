@@ -1,21 +1,22 @@
-### About me: https://www.linkedin.com/in/heribertoroman/
+### Coding Workstation [Learning Styles] 💻
+____________________________________________________________________________________
+Let's spend a few minutes thinking about your learning type. What makes you tick? What strategies work for you in terms of learning. 
 
-### Coding Workstations 💻
+Do you need to touch it to learn, are you an avid YouTuber, or do you bank on audio files to learn? 
 
-Coding work stations are comprised of small repetitive coding prompts. The goal is to provide students with kinesthetic learning types, an opportunity to get their hands dirty and acquire a level of competency with Javascript fundamentals.
+Have you ever wondered why you do better in some classes than others? It may depend on your learning style. Your learning style influences the way you understand information and solve problems.
 
-### Steps for Instructors
+Studies show that varying your study methods and materials will improve your retention and recall of information, and enhance your learning experience. The "learning pyramid", sometimes referred to as the "cone of learning", developed by the National Training Laboratory, suggests that most students only remember about 10% of what they read from textbooks, but retain nearly 90% of what they learn through teaching others. The Learning Pyramid model suggests that some methods of study are more effective than others and that varying study methods will lead to deeper learning and longer-term retention.
 
-1. Set up tables facing each other that resembles a workstation.
-2. Label each table with the appropriate coding station tag.
-3. Prompt the students that the end goal is to complete each coding workstation
-4. In order to pass students must complete all the prompts for each coding workstation then tested on those prompts via live coding, proctored by the instructor.
-    - Each coding work station is worth x points.
-    - Each student gets x minutes to complete live coding
-5. Once the student has completed a coding work station and passed the live coding test move student to the next table.
+There are three primary learning styles:
 
-### Steps for Students
+![Learning Pyramid](img/learning-pyramid2.jpg)
 
-Each coding workstation lives in a git branch please follow these steps to check in or out to a specific coding workstation branch.
+Leanring Pyramid Photo goes here
 
-1. git branch
+DAB
+
+Many people use a combination of learning styles, whereas others learn best by using just one. Want to know your learning style? You're just 30 questions away from finding out!
+
+***Learning Style Assesment:***
+https://www.how-to-study.com/learning-style-assessment/
