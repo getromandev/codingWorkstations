@@ -16,7 +16,7 @@ There are three primary learning styles:
 ____________________________________________________________________________________
 ![cThink](img/cThink.png)
 
-**cThink** (computational thinking) is a MVP progressive web app that focuses on the abstraction piece of the computational thinking model. This platform allows students to utilize the Draw ✏️, Act 🎭, Build 🔧 {D.A.B} pedagogy and helps them retain complex coding concepts by associating them with personalized analogies, building them out, and saving their process.
+**cThink** (computational thinking) is a MVP progressive web app that focuses on the abstraction piece of the computational thinking model. It also borrows aspects of the learning pyramid that allows code newbies to utilize the Draw ✏️, Act 🎭, Build 🔧 **{D.A.B}** pedagogy. **{D.A.B}** helps code newbies retain complex coding concepts by associating them with personalized analogies, building them out, and saving their process.
 
 http://bit.ly/cThinkTimelineV2
 
