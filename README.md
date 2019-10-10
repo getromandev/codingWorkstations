@@ -6,7 +6,7 @@ Logic programming is a computer programming paradigm in which program statements
 ____________________________________________________________________________________
 LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play!
 
-    - http://lightbot.com/flash.html
+http://lightbot.com/flash.html
 
 ### Water Bottle Challenge
 ____________________________________________________________________________________
