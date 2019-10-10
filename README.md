@@ -5,6 +5,7 @@ Logic programming is a computer programming paradigm in which program statements
 ### LightBot
 ____________________________________________________________________________________
 LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play!
+
     - http://lightbot.com/flash.html
 
 ### Water Bottle Challenge
@@ -13,4 +14,4 @@ You have a 3 and a 5-gallon water container, each container has no markings exce
 
 How is this done? You have 5 minutes to write out your algorithm with your team.
 
-![waterBottle](img/waterBottleImage.jpg)
+![water](img/waterBottleImage.jpg)
