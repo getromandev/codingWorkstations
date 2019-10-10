@@ -1,4 +1,4 @@
-### Coding Workstation [Learning Styles] 💻
+### Coding Workstation [Learning Styles] 🎓
 ____________________________________________________________________________________
 Let's spend a few minutes thinking about your learning type. What makes you tick? What strategies work for you in terms of learning.
 
@@ -12,11 +12,11 @@ There are three primary learning styles:
 
 ![Learning Pyramid](img/learning-pyramid2.jpg)
 
-### Shameless Plug cThink 💻
+### Shameless Plug cThink
 ____________________________________________________________________________________
 ![cThink](img/cThink.png)
 
-**cThink** (computational thinking) is a MVP progressive web app that focuses on the abstraction piece of the computational thinking model. This platform allows students to utilize the Draw ✏️, Act 🎥, Build 🔧 {D.A.B} pedagogy and helps them retain complex coding concepts by associating them with personalized analogies, building them out, and saving their process.
+**cThink** (computational thinking) is a MVP progressive web app that focuses on the abstraction piece of the computational thinking model. This platform allows students to utilize the Draw ✏️, Act 🎭, Build 🔧 {D.A.B} pedagogy and helps them retain complex coding concepts by associating them with personalized analogies, building them out, and saving their process.
 
 http://bit.ly/cThinkTimelineV2
 
