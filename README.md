@@ -13,4 +13,4 @@ You have a 3 and a 5-gallon water container, each container has no markings exce
 
 How is this done? You have 5 minutes to write out your algorithm with your team.
 
-![Water Bottle](img/Rompecabeza_jan_unsolved.jpg)
+![Water Bottle](img/waterBottleImage.jpg)
