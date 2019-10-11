@@ -1,26 +1,31 @@
-### Coding Workstation [Logic] 🔎
+### Coding Workstation [Abstraction] 🔎
 ____________________________________________________________________________________
-Logic programming is a computer programming paradigm in which program statements express facts and rules about problems within a system of formal logic. Rules are written as logical clauses with a head and a body; for instance, "H is true if B1, B2, and B3 are true."
+Abstraction is 1 of 4 parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems. 
 
 **Submit**
 1. Take a snapshot of your certificate  
 2. Submit it on Google Classroom
 
-### LightBot
-____________________________________________________________________________________
-LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play!
 
-http://lightbot.com/flash.html
+Click on the first coding task complete the prompts using code.org blockly coding blocks and move on to the next coding task.
+==================
+Intro to Code Studio
+https://studio.code.org/s/coursec-2018/stage/2/puzzle/1
 
-### Water Bottle Challenge
-____________________________________________________________________________________
-You have a 3 and a 5-gallon water container, each container has no markings except for that which gives you it's total volume. You also have a running tap. You must use the containers and the tap in such a way as to exactly measure out 4 liters of water.
+Debugging
+https://studio.code.org/s/coursec-2018/stage/3/puzzle/1
 
-How is this done? You have 5 minutes to write out your algorithm with your team.
+Loops
+https://studio.code.org/s/coursec-2018/stage/8/puzzle/1
 
-**Submit**
-1. Open up a Google document
-2. Write out your algorithm
-3. Submit it on Google Classroom
+Events
+https://studio.code.org/s/coursec-2018/stage/12/puzzle/1
+
+Conditionals
+https://studio.code.org/s/coursec-2018/stage/12/puzzle/1
+
+Functions
+https://studio.code.org/s/starwars/stage/1/puzzle/1
+
 
 ![water](img/waterBottle.png)
