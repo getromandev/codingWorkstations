@@ -10,20 +10,20 @@ Abstraction is **1** of **4** parts of the computational thinking model. It is t
 
 ### Click on the first coding task complete the prompts using code.org and move on to the next coding task.
 ____________________________________________________________________________________
-Intro to Code Studio
+**Intro to Code Studio:**
 https://studio.code.org/s/coursec-2018/stage/2/puzzle/1
 
-Debugging
+**Debugging:**
 https://studio.code.org/s/coursec-2018/stage/3/puzzle/1
 
-Loops
+**Loops:**
 https://studio.code.org/s/coursec-2018/stage/8/puzzle/1
 
-Events
+**Events:**
 https://studio.code.org/s/coursec-2018/stage/12/puzzle/1
 
-Conditionals
+**Conditionals:**
 https://studio.code.org/s/coursec-2018/stage/12/puzzle/1
 
-Functions
+**Functions:**
 https://studio.code.org/s/starwars/stage/1/puzzle/1
