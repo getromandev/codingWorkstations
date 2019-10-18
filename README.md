@@ -1,6 +1,7 @@
 ### Coding Workstation [Abstraction] 🔎
 ____________________________________________________________________________________
-Abstraction is 1 of 4 parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems. 
+Abstraction is 1 of 4 parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems.
+![water](img/ComputationalThinkingProductLogo.png)
 
 **Submit**
 1. Take a snapshot of your certificate  
@@ -28,4 +29,4 @@ Functions
 https://studio.code.org/s/starwars/stage/1/puzzle/1
 
 
-![water](img/waterBottle.png)
+![water](img/)
