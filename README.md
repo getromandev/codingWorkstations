@@ -3,7 +3,8 @@ ________________________________________________________________________________
 Abstraction is **1** of **4** parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems.
 ![Computational Thinking](img/ComputationalThinkingProductLogo.png)
 
-**Submit**
+### How To Submit
+____________________________________________________________________________________
 1. Take a snapshot of your certificate
 2. Submit it on Google Classroom
 
