@@ -27,3 +27,8 @@ ________________________________________________________________________________
 Many people use a combination of learning styles, whereas others learn best by using just one. Want to know your learning style? You're just 30 questions away from finding out!
 
 https://www.how-to-study.com/learning-style-assessment/
+
+### How To Submit
+____________________________________________________________________________________
+1. Take a snapshot of your learning style results
+2. Submit it on Google Classroom
