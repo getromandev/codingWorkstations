@@ -14,6 +14,21 @@ There are three primary learning styles:
 
 ![Learning Pyramid](img/learning-pyramid2.jpg)
 
+### Computational Thinking Model
+____________________________________________________________________________________
+![Computational Thinking](img/ComputationalThinkingProductLogo.png)
+
+Computational Thinking (CT) is a problem solving process that includes a number of characteristics and dispositions. CT is essential to the development of computer applications, but it can also be used to support problem solving across all disciplines, including the humanities, math, and science. Students who learn CT across the curriculum can begin to see a relationship between academic subjects, as well as between life inside and outside of the classroom.
+
+The coding workstations provides an opportunity to experience some of the elements of CT, including:
+
+**Decomposition:** Breaking down data, processes, or problems into smaller, manageable parts
+**Pattern Recognition:** Observing patterns, trends, and regularities in data
+**Abstraction:** Identifying the general principles that generate these patterns
+**Algorithm Design:** Developing the step by step instructions for solving this and similar problems
+
+[![Watch the video](img/computationalThinkingVid.png)](https://www.youtube.com/watch?v=mUXo-S7gzds)
+
 ### Shameless Plug cThink
 ____________________________________________________________________________________
 ![cThink](img/cThink.png)
