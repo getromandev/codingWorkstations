@@ -2,10 +2,6 @@
 ____________________________________________________________________________________
 Logic programming is a computer programming paradigm in which program statements express facts and rules about problems within a system of formal logic. Rules are written as logical clauses with a head and a body; for instance, "H is true if B1, B2, and B3 are true."
 
-**Submit**
-1. Take a snapshot of your certificate  
-2. Submit it on Google Classroom
-
 ### LightBot
 ____________________________________________________________________________________
 LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play!
