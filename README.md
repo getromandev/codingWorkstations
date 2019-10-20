@@ -22,10 +22,10 @@ Computational Thinking (CT) is a problem solving process that includes a number 
 
 The coding workstations provides an opportunity to experience some of the elements of CT, including:
 
-**Decomposition:** Breaking down data, processes, or problems into smaller, manageable parts
-**Pattern Recognition:** Observing patterns, trends, and regularities in data
-**Abstraction:** Identifying the general principles that generate these patterns
-**Algorithm Design:** Developing the step by step instructions for solving this and similar problems
+- **Decomposition:** Breaking down data, processes, or problems into smaller, manageable parts
+- **Pattern Recognition:** Observing patterns, trends, and regularities in data
+- **Abstraction:** Identifying the general principles that generate these patterns
+- **Algorithm Design:** Developing the step by step instructions for solving this and similar problems
 
 [![Watch the video](img/computationalThinkingVid.png)](https://www.youtube.com/watch?v=mUXo-S7gzds)
 
