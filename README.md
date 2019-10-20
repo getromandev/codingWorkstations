@@ -10,7 +10,7 @@ Blockly is a visual coding language that allows users to create codes by stackin
 
 Click on the **Intro to Code Studio:** complete the prompts on code.org and then move on to the next coding task.
 
-**Intro to Code Studio:** COme back to this
+**Intro to Code Studio:**
 https://studio.code.org/s/coursec-2019/stage/4/puzzle/1
 
 **Debugging:**
