@@ -9,7 +9,7 @@ ________________________________________________________________________________
 2. Submit it on Google Classroom
 
 
-### Click on the first coding task complete the prompts using code.org and move on to the next coding task.
+### Click on the **Intro to Code Studio:** complete the prompts on code.org and then move on to the next coding task.
 ____________________________________________________________________________________
 **Intro to Code Studio:**
 https://studio.code.org/s/coursec-2018/stage/2/puzzle/1
