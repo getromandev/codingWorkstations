@@ -22,6 +22,7 @@ ________________________________________________________________________________
 You have a 3 and a 5-gallon water container, each container has no markings except for that which gives you it's total volume. You also have a running tap. You must use the containers and the tap in such a way as to exactly measure out 4 liters of water.
 
 How is this done? You have 5 minutes to write out your algorithm with your team.
+
 ![water](img/waterBottle.png)
 
 ### How To Submit Water Botle Challenge
