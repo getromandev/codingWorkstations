@@ -1,6 +1,7 @@
 ### Coding Workstation [Abstraction] 🔎
 ____________________________________________________________________________________
 Abstraction is **1** of **4** parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems.
+
 ![Computational Thinking](img/ComputationalThinkingProductLogo.png)
 
 ### Click on the **Intro to Code Studio:** complete the prompts on code.org and then move on to the next coding task.
