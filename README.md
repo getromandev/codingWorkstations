@@ -12,15 +12,20 @@ LightBot is a puzzle game based on coding; it secretly teaches you programming l
 
 http://lightbot.com/flash.html
 
+### How To Submit LightBot
+____________________________________________________________________________________
+1. Take a snapshot of your certificate
+2. Submit it on Google Classroom
+
 ### Water Bottle Challenge
 ____________________________________________________________________________________
 You have a 3 and a 5-gallon water container, each container has no markings except for that which gives you it's total volume. You also have a running tap. You must use the containers and the tap in such a way as to exactly measure out 4 liters of water.
 
 How is this done? You have 5 minutes to write out your algorithm with your team.
+![water](img/waterBottle.png)
 
-**Submit**
+### How To Submit Water Botle Challenge
+____________________________________________________________________________________
 1. Open up a Google document
 2. Write out your algorithm
 3. Submit it on Google Classroom
-
-![water](img/waterBottle.png)
