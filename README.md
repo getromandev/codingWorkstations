@@ -2,8 +2,6 @@
 ____________________________________________________________________________________
 Abstraction is **1** of **4** parts of the computational thinking model. It is the idea of pulling out a specific difference to make one solution work for multiple problems.
 
-![Computational Thinking](img/ComputationalThinkingProductLogo.png)
-
 ### Blockly
 ____________________________________________________________________________________
 Blockly is a visual coding language that allows users to create codes by stacking blocks together. These blocks are used to create “chunks of code” that can later be translated into professional textual code.
