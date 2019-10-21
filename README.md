@@ -13,6 +13,21 @@ ________________________________________________________________________________
 1. Take a snapshot of your certificate
 2. Submit it on Google Classroom
 
+### Logical Reasoning Challenge
+____________________________________________________________________________________
+Students will have to recognize patterns in order to come up with a solution.
+Your job is to fill out the last box, provided data from the three other boxes.
+
+![logicalReasoning](img/logicalReasoning.png)
+
+### How to Submit Logical Reasoning Challenge
+____________________________________________________________________________________
+1. Open up a Google doc
+2. Write down your logic
+    - Consider revisiting the computational thinking model to assist with solving this problem
+3. Copy the Google doc url link 
+4. Submit it on Google Classroom
+
 ### Water Bottle Challenge
 ____________________________________________________________________________________
 You have a 3 and a 5-gallon water container, each container has no markings except for that which gives you it's total volume. You also have a running tap. You must use the containers and the tap in such a way as to exactly measure out 4 liters of water.
