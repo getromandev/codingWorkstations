@@ -1,6 +1,6 @@
 ### About me: https://www.linkedin.com/in/heribertoroman/
 ![Coding Workstations](img/codingWorkstation.png)
-Coding work stations are comprised of small repetitive coding prompts. The goal is to provide students with kinesthetic learning types, an opportunity to get their hands dirty and acquire a level of competency with Javascript fundamentals.
+Coding work stations are comprised of small repetitive coding prompts. The goal is to provide students with visual, audio and kinesthetic learning types, an opportunity to get their hands dirty and acquire a level of competency with lite Computer Science & Javascript fundamentals.
 
 ### Steps for Instructors
 ____________________________________________________________________________________
