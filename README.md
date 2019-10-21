@@ -16,6 +16,10 @@ While we could substitute the words instructions for algorithm, there are some i
 
 ![algorithmImg](img/algorithmExample.png)
 
+**Lets watch a video for a visual and audio explanation**
+
+[![Watch the video](img/whatIsAnAlgorithm.png)](https://www.youtube.com/watch?v=6hfOvs8pY1k)
+
 ### Solve the Tower of Hanoi Puzzle
 ____________________________________________________________________________________
 The Tower of Hanoi is a puzzle that consists of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
@@ -38,3 +42,6 @@ ________________________________________________________________________________
     - compare it to your algorithm
     - what is the difference?
 5. Once you are done submit it on Google Classroom
+
+
+https://computationalthinkingcourse.withgoogle.com/unit?unit=7&lesson=19 
