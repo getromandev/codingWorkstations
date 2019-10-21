@@ -30,6 +30,11 @@ The rules one must follow when solving the tower puzzle are:
 ____________________________________________________________________________________
 1. Open up a Google document
 2. Write out your algorithm for the Tower of Hanoi Puzzle
-3. Submit it on Google Classroom
-4. Now solve it with this interactive version of the Hanoi puzzle 
-- https://www.mathsisfun.com/games/towerofhanoi.html
+    - write out your algorithm step by step
+    - record, write and save the total steps on the Google document
+3. Now solve the interactive version of the Hanoi puzzle 
+    - https://www.mathsisfun.com/games/towerofhanoi.html
+4. Go back to your Google document and record how many steps it took for you to solve the puzzle
+    - compare it to your algorithm
+    - what is the difference?
+5. Once you are done submit it on Google Classroom
