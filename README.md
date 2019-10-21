@@ -24,6 +24,23 @@ While we could substitute the words instructions for algorithm, there are some i
 
 [![Watch the video](img/whatIsAnAlgorithm.png)](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
+### What is PsuedoCode
+Pseudo code is an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading.
+
+![psuedoCode](img/psuedoCode.png)
+
+No syntax is followed in pseudo code.
+Do not include data declarations in your pseudo code.
+
+How to write a pseudo code:
+
+1. Start by writing down the purpose of the process.
+2. Write initial steps of pseudo code that set the stage for functions.
+3. Write functional pseudo code.
+4. Add comments, if necessary.
+5. Read over the finished project for logic errors .
+6. Review the pseudo code.
+
 ### Solve the Tower of Hanoi Puzzle
 ____________________________________________________________________________________
 The Tower of Hanoi is a puzzle that consists of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
