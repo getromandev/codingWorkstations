@@ -1,6 +1,6 @@
 ### Coding Workstation [Algorithms] 📝
 ____________________________________________________________________________________
-Algorithm Design is **1** of **4** parts of the computational thinking model. An algorithm can simply be defined like this: - An algorithm is set of instructions that precisely describe an activity. The instructions should be such that any ‘actor’ could follow to produce the same output. An ‘actor’ refers to anything, whether human or computer, that is capable of computation.
+Algorithm Design is **1** of **4** parts of the computational thinking model. An algorithm can simply be defined like this: An algorithm is set of instructions that precisely describe an activity. The instructions should be such that any ‘actor’ could follow to produce the same output. An ‘actor’ refers to anything, whether human or computer, that is capable of computation.
 
 Algorithms are used every day all around us to do all sorts of things, such as finding a route from A to B, searching the internet for the most appropriate pages, or recommending movies based on your past viewing.
 
@@ -26,8 +26,10 @@ The rules one must follow when solving the tower puzzle are:
 
 ![Hanoi](img/towerOfHanoi.png)
 
-### How To Submit
+### How To Submit the Tower of Hanoi Puzzle
 ____________________________________________________________________________________
 1. Open up a Google document
-2. Write out your algorithm
+2. Write out your algorithm for the Tower of Hanoi Puzzle
 3. Submit it on Google Classroom
+4. Now solve it with this interactive version of the Hanoi puzzle 
+- https://www.mathsisfun.com/games/towerofhanoi.html
