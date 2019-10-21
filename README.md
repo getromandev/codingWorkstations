@@ -1,6 +1,10 @@
 ### Coding Workstation [Algorithms] 📝
 ____________________________________________________________________________________
-Algorithm Design is **1** of **4** parts of the computational thinking model. An algorithm can simply be defined like this: An algorithm is set of instructions that precisely describe an activity. The instructions should be such that any ‘actor’ could follow to produce the same output. An ‘actor’ refers to anything, whether human or computer, that is capable of computation.
+Algorithm Design is **1** of **4** parts of the computational thinking model. An algorithm can simply be defined like this: An algorithm is set of instructions that precisely describe an activity.
+
+![Algorithm](img/algorithm.png)
+
+The instructions should be such that any ‘actor’ could follow to produce the same output. An ‘actor’ refers to anything, whether human or computer, that is capable of computation.
 
 Algorithms are used every day all around us to do all sorts of things, such as finding a route from A to B, searching the internet for the most appropriate pages, or recommending movies based on your past viewing.
 
