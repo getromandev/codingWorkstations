@@ -24,7 +24,7 @@ While we could substitute the words instructions for algorithm, there are some i
 
 [![Watch the video](img/whatIsAnAlgorithm.png)](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
-### What is PsuedoCode
+### What is PseudoCode
 Pseudo code is an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading.
 
 ![psuedoCode](img/psuedoCode.png)
@@ -63,6 +63,3 @@ ________________________________________________________________________________
     - compare it to your algorithm
     - what is the difference?
 5. Once you are done submit it on Google Classroom
-
-
-https://computationalthinkingcourse.withgoogle.com/unit?unit=7&lesson=19 
