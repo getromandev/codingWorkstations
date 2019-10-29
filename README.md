@@ -31,5 +31,5 @@ https://studio.code.org/s/starwars/stage/1/puzzle/1
 
 ### How To Submit
 ____________________________________________________________________________________
-1. Take a snapshot of your screen once you complete the last level
+1. Take a snapshot of your completion screen once you complete each section
 2. Submit it on Google Classroom
