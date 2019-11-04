@@ -8,6 +8,10 @@ Abstraction is **1** of **4** parts of the computational thinking model. It is t
 ____________________________________________________________________________________
 Blockly is a visual coding language that allows users to create codes by stacking blocks together. These blocks are used to create “chunks of code” that can later be translated into professional textual code.
 
+The Blockly library adds an editor to your app that represents coding concepts as interlocking blocks. It outputs syntactically correct code in the programming language of your choice. Custom blocks may be created to connect to your own application.
+
+https://developers.google.com/blockly
+
 Click on the **Intro to Code Studio:** complete the prompts on code.org and then move on to the next coding task.
 
 **Intro to Code Studio:**
