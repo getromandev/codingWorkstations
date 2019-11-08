@@ -1,6 +1,6 @@
 ### Coding Workstation [Logic] 🔎
 ____________________________________________________________________________________
-Logic programming is a computer programming paradigm in which program statements express facts and rules about problems within a system of formal logic. Rules are written as logical clauses with a head and a body; for instance, "H is true if B1, B2, and B3 are true."
+Logical thinking is the process in which one uses reasoning consistently to come to a conclusion. Problems or situations that involve logical thinking call for structure, for relationships between facts, and for chains of reasoning that “make sense.”
 
 ### LightBot
 ____________________________________________________________________________________
