@@ -56,10 +56,12 @@ ________________________________________________________________________________
 1. Open up a Google document
 2. Write out your algorithm for the Tower of Hanoi Puzzle
     - write out your algorithm step by step
-    - record, write and save the total steps on the Google document
+    - count the total steps of your algorithm
+    - document the total number on your Google doc
 3. Now solve the interactive version of the Hanoi puzzle 
     - https://www.mathsisfun.com/games/towerofhanoi.html
-4. Go back to your Google document and record how many steps it took for you to solve the puzzle
-    - compare it to your algorithm
-    - what is the difference?
+4. Go back to your Google document
+    - record/document how many steps it took for you to solve the interactive version puzzle on the Google doc
+    - compare it to your previous algorithm
+    - what are some of the differences? dicuss with your team.
 5. Once you are done submit it on Google Classroom
