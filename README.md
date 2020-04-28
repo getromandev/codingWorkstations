@@ -8,13 +8,13 @@ ________________________________________________________________________________
 2. Label each table with the appropriate coding station tag.
 3. Prompt the students that the end goal is to complete each coding workstation
 4. In order to pass students must complete all the prompts for each coding workstation then tested on those prompts via live coding, proctored by the instructor.
-    - Each coding work station is worth x points.
-    - Each student gets x minutes to complete live coding
+    - Each coding work station is worth [x] points.
+    - Each student gets [x] minutes to complete live coding
 5. Once the student has completed a coding work station and passed the live coding test move student to the next table.
 
 ### Steps for Students
 ______________________________________________________________________________________
-Each coding workstation lives in a git branch please follow these steps to check in or out to a specific coding workstation branch.
+Each coding workstation lives in a branch with documentation, please follow these steps to check in or out to a specific coding workstation branch.
 
 1. Navigate to the following URL **https://github.com/getromandev/codingWorkstations**
 2. Click on the **fork** button
@@ -31,3 +31,14 @@ Each coding workstation lives in a git branch please follow these steps to check
     - You will see a list of coding workstations displayed
     - Select your coding workstation and type **git checkout [branchName]**
 10. Open up your favorite text editor and get to work
+
+1. Navigate to one of the following branches
+    #### ```Learning Styles```
+    - https://github.com/getromandev/codingWorkstations/tree/learningStyles
+    #### ```Abstraction```
+    - https://github.com/getromandev/codingWorkstations/tree/Abstraction
+    #### ```Algorithms```
+    - https://github.com/getromandev/codingWorkstations/tree/Algorithms
+    #### ```Logic```
+    - https://github.com/getromandev/codingWorkstations/tree/Logic
+2. 
