@@ -8,8 +8,8 @@ ________________________________________________________________________________
 2. Label each table with the appropriate coding station tag.
 3. Prompt the students that the end goal is to complete each coding workstation
 4. In order to pass students must complete all the prompts for each coding workstation then tested on those prompts via live coding, proctored by the instructor.
-    - Each coding work station is worth [x] points.
-    - Each student gets [x] minutes to complete live coding
+    - Each coding work station is worth `[x]` points.
+    - Each student gets `[x]` minutes to complete live coding
 5. Once the student has completed a coding work station and passed the live coding test move student to the next table.
 
 ### Steps for Students
@@ -25,4 +25,6 @@ Each coding workstation lives in a branch with documentation, please follow thes
     - https://github.com/getromandev/codingWorkstations/tree/Algorithms
     #### ```Logic```
     - https://github.com/getromandev/codingWorkstations/tree/Logic
+        #### ```Primitive Data Types, Variables, Functions```
+    - https://github.com/getromandev/codingWorkstations/tree/Primitive_Data_Types__Variables__Functions
 2. Follow the steps in the documentaton and have fun.
