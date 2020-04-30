@@ -25,6 +25,6 @@ Each coding workstation lives in a branch with documentation, please follow thes
     - https://github.com/getromandev/codingWorkstations/tree/Algorithms
     #### ```Logic```
     - https://github.com/getromandev/codingWorkstations/tree/Logic
-        #### ```Primitive Data Types, Variables, Functions```
+    #### ```Primitive Data Types, Variables, Functions```
     - https://github.com/getromandev/codingWorkstations/tree/Primitive_Data_Types__Variables__Functions
 2. Follow the steps in the documentaton and have fun.
