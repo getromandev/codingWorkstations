@@ -25,9 +25,41 @@ ________________________________________________________________________________
 
 ### String Methods
 ____________________________________________________________________________________
-#####```For the primitive data type String complete the following via console.log()```
+##### ``For the primitive data type String complete the following via console.log()```
 
 * Find the length of your first name variable   
 * Find the last character of your last name variable   
 * Find the character that sits in index 1 in your first name variable   
 * Convert your first name variable to an Array
+
+### Number Methods
+____________________________________________________________________________________
+##### ``For the primitive data type Number complete the following via console.log()```
+
+* Take your integer variable and raise it to the 4th power
+* Convert your number into a string
+* Take float variable and round down the number
+* Take float variable and round up the number
+* Find the square root of your number
+
+### Boolean
+____________________________________________________________________________________
+##### ``For the primitive data type Boolean complete the following via console.log()```
+
+*  Convert your boolean value from (true to false || false to true) with the bang operator aka logical NOT operator.
+
+### Concatenate Primitive Data Types
+____________________________________________________________________________________
+##### ``Log out the following to the console via console.log()```
+
+* Hi my name is `[firstName]` `[lastName]` and I am `[integer]` years old, `[boolean]`.
+
+### Functions
+____________________________________________________________________________________
+##### ```Create a function called myName```
+
+* With two parameters `(firstName, lastName) ` 
+* Write a `console.log()` that will log out:
+  *  "Hello world my name is `firstName` `lastName`"   
+
+* Call/Invoke the function with two arguments of your choice
