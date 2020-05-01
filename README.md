@@ -75,5 +75,4 @@ let car = {
 }
 ```
 
-Here is an example of calling the [giveMeInfoAboutMyCar] method that lives in my car object  
-console.log(car.giveMeInfoAboutMyCar())
+Here is an example of calling the `giveMeInfoAboutMyCar` method that lives in my car object `console.log(car.giveMeInfoAboutMyCar())`.
