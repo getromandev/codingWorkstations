@@ -61,7 +61,8 @@ Here's a sample car object without properties:
 ```let car = {};```
 
 Here's a sample car object with properties:
-```let car = {  
+```
+let car = {  
   make: 'Honda',  
   model: 'Accord',  
   numberOfTires: 4,  
@@ -71,7 +72,8 @@ Here's a sample car object with properties:
   giveMeInfoAboutMyCar: function() {
     return `I have a ${this.make} ${this.model} and my car is registered: ${this.isCarRegistered}, and our number one competitor is: ${this.competitors[2]}`
     } 
-}```
+}
+```
 
 Here is an example of calling the [giveMeInfoAboutMyCar] method that lives in my car object  
 console.log(car.giveMeInfoAboutMyCar())
