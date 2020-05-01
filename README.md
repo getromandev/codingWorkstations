@@ -76,3 +76,17 @@ let car = {
 ```
 
 Here is an example of calling the `giveMeInfoAboutMyCar` method that lives in my car object `console.log(car.giveMeInfoAboutMyCar())`.
+
+### Objects
+____________________________________________________________________________________
+*  Create an Object literal
+*  Store your object in a `variable` called `ford`
+*  Take your ford Object and add `5 properties` that hold
+ *  a key: `make` and a value: `string` 
+ *  a key: `numberOfTires`  and a value: of an `integer`
+ *  a key: `competitors` and a value: of an `array` that holds `3 strings elements`
+ *  a key: `isCarRegistered` and a value: of a `boolean`
+ *  a key: `myMethod` and a value: that holds a `method` that `console.logs()` details about your object  i.e.
+     *  "I have a `make` `model` and my car is registered: `boolean`, and our number one competitor is: `choose any competitor that is currently sitting in your array`"
+
+*  Call the `myMethod` that is sitting in your ford object If you completed this correctly you should see a string with your message in the console. 👍
